@@ -1,0 +1,14 @@
+{
+  "name": "my-product-packs",
+  "owner": {
+    "name": "<your team>"
+  },
+  "description": "Product packs for design-critic: one plugin per product.",
+  "plugins": [
+    {
+      "name": "design-critic-example",
+      "source": "./plugins/design-critic-example",
+      "description": "Example product layer for design-critic"
+    }
+  ]
+}
