@@ -1,7 +1,7 @@
 # Product layer — Example
 
 > Loaded on top of the universal rules whenever work concerns this product
-> (design-critic `products/README.md`). A row here without a source or a reference screen does not exist.
+> (Roman in your Pocket `products/README.md`). A row here without a source or a reference screen does not exist.
 > Only the product owner edits this file; builds and reviews propose changes.
 >
 > **Names:** Example · Example app · example-web — every name people use for

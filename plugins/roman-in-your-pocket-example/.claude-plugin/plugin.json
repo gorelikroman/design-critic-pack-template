@@ -1,0 +1,8 @@
+{
+  "name": "roman-in-your-pocket-example",
+  "version": "0.1.0",
+  "description": "Example product layer for Roman in your Pocket: design system sources, patterns, voice, hard rules and the decisions log.",
+  "author": {
+    "name": "<your team>"
+  }
+}

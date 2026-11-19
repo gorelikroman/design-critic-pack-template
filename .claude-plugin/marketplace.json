@@ -3,12 +3,12 @@
   "owner": {
     "name": "<your team>"
   },
-  "description": "Product packs for design-critic: one plugin per product.",
+  "description": "Product packs for Roman in your Pocket: one plugin per product.",
   "plugins": [
     {
-      "name": "design-critic-example",
-      "source": "./plugins/design-critic-example",
-      "description": "Example product layer for design-critic"
+      "name": "roman-in-your-pocket-example",
+      "source": "./plugins/roman-in-your-pocket-example",
+      "description": "Example product layer for Roman in your Pocket"
     }
   ]
 }
